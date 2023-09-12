@@ -16,6 +16,7 @@ public class Swp391TestGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Will failed or success");
+        System.out.println("Học github và trường 3 chữ")
     }
     
 }
